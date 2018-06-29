@@ -1,0 +1,13 @@
+{
+    "data": "all",
+    "options": {
+        "backgroundColor": "#e6e6e6",
+        "backgroundImage": "loader.png",
+        "animationDuration": "5"
+    },
+    "optionsDescriptions": {
+        "backgroundColor": "Document Background color",
+        "backgroundImage": "Spinner image",
+        "animationDuration": "Animation duration (s)"
+    }
+}

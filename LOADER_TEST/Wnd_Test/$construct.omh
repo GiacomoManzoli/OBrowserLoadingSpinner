@@ -1,0 +1,9 @@
+;  Enter your initialization code here
+Set reference irObSpinner to $cwind.$objs.ob_loading_spinner
+
+Calculate lOptionsRow as irObSpinner.$htmlcontroloptions
+
+Calculate lOptionsRow.backgroundColor as '#FF0000'
+Calculate lOptionsRow.backgroundImage as 'loader.png'
+Calculate lOptionsRow.animationDuration as 3
+Do irObSpinner.$htmlcontroloptions.$assign(lOptionsRow)

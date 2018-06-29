@@ -1,0 +1,85 @@
+{
+	"ident": 1016,
+	"order": 1,
+	"objtype": "kComponent",
+	"componentlib": "OBrowser Library",
+	"componentctrl": "OBrowser Control",
+	"properties": {
+		"active": true,
+		"align": "kLeftJst",
+		"allowjsdraganddrop": false,
+		"alpha": 255,
+		"applycss": false,
+		"backalpha": 255,
+		"backcolor": "kColorWindow",
+		"candropcursor": 0,
+		"contextmenu": "",
+		"cssextra": "",
+		"dataname": "",
+		"desgroup": 0,
+		"designactive": true,
+		"deslock": false,
+		"disabledefaultcontextmenu": false,
+		"disablefocus": false,
+		"disablepluginsmacos": false,
+		"disablesystemfocus": false,
+		"dragborder": false,
+		"dragiconid": 0,
+		"dragmode": "kNoDragging",
+		"dragobjectbarcolor": "kColorDefault",
+		"dragrange": "kRangeAll",
+		"dropmode": "kAcceptNone",
+		"edgefloat": "kEFnone",
+		"effect": "kBorderNone",
+		"enabled": true,
+		"fieldstyle": "",
+		"font": 5,
+		"fontsize": 10,
+		"fontstyle": "kPlain",
+		"height": 247,
+		"helpfile": 0,
+		"hiliteline": false,
+		"htmlcontroloptions": {
+			"type": [
+				{
+					"name": "backgroundColor",
+					"order": 1,
+					"type": "kCharacter",
+					"subtype": "kSimplechar",
+					"sublen": 100000000
+				},
+				{
+					"name": "backgroundImage",
+					"order": 2,
+					"type": "kCharacter",
+					"subtype": "kSimplechar",
+					"sublen": 100000000
+				},
+				{
+					"name": "animationDuration",
+					"order": 3,
+					"type": "kCharacter",
+					"subtype": "kSimplechar",
+					"sublen": 100000000
+				}
+			],
+			"data": {
+				"backgroundColor": "#E6E6E6",
+				"backgroundImage": "loader_4k.png",
+				"animationDuration": "1\r"
+			}
+		},
+		"keyevents": false,
+		"left": 23,
+		"nodropcursor": 0,
+		"objlink": 0,
+		"statusevents": false,
+		"textcolor": "kColorWindowText",
+		"tooltip": "",
+		"top": 83,
+		"urlorcontrolname": "loading_spinner",
+		"userinfo": "",
+		"visible": true,
+		"width": 260
+	}
+}
